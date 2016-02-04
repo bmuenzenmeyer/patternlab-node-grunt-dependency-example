@@ -1,0 +1,57 @@
+{
+  "paths" : {
+    "source" : {
+      "root": "C:/src/plnd/source/",
+      "patterns" : "C:/src/plnd/source/_patterns/",
+      "data" : "C:/src/plnd/source/_data/",
+      "styleguide" : "C:/src/plnd/node_modules/patternlab-node/core/styleguide/",
+      "patternlabFiles" : "C:/src/plnd/source/_patternlab-files/",
+      "js" : "C:/src/plnd/source/js",
+      "images" : "C:/src/plnd/source/images",
+      "fonts" : "C:/src/plnd/source/fonts",
+      "css" : "C:/src/plnd/source/css/"
+    },
+    "public" : {
+      "root" : "C:/src/plnd/public/",
+      "patterns" : "C:/src/plnd/public/patterns/",
+      "data" : "C:/src/plnd/public/data/",
+      "styleguide" : "C:/src/plnd/public/styleguide/",
+      "js" : "C:/src/plnd/public/js",
+      "images" : "C:/src/plnd/public/images",
+      "fonts" : "C:/src/plnd/public/fonts",
+      "css" : "C:/src/plnd/public/css"
+    }
+  },
+	"styleGuideExcludes": [
+		"templates",
+		"pages"
+	],
+ 	"ignored-extensions" : ["scss", "DS_Store", "less"],
+ 	"ignored-directories" : ["scss"],
+ 	"debug": false,
+ 	"ishControlsVisible": {
+ 		"s": true,
+ 		"m": true,
+ 		"l": true,
+ 		"full": true,
+ 		"random": true,
+ 		"disco": true,
+ 		"hay": true,
+ 		"mqs": true,
+ 		"find": true,
+ 		"views-all": true,
+ 		"views-annotations": true,
+ 		"views-code": true,
+ 		"views-new": true,
+ 		"tools-all": true,
+ 		"tools-sync": true,
+ 		"tools-shortcuts": true,
+ 		"tools-docs": true
+ 	},
+  "patternStates": {
+    "homepage-emergency" : "inprogress"
+  },
+  "patternExportKeys": [],
+  "patternExportDirectory": "./pattern_exports/",
+  "baseurl" : ""
+ }
