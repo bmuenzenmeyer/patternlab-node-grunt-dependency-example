@@ -4,6 +4,10 @@
   "description": "Example using Pattern Lab Node used as a dependency within a larger Grunt configuration",
   "author": "Brian Muenzenmeyer <brian.muenzenmeyer@gmail.com> (http://brianmuenzenmeyer.com)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bmuenzenmeyer/patternlab-node-grunt-dependency-example.git"
+  },
   "devDependencies": {
     "bs-html-injector": "^3.0.0",
     "grunt": "^0.4.5",
