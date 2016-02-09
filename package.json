@@ -16,6 +16,6 @@
     "grunt-contrib-copy": "^0.8.2",
     "grunt-contrib-nodeunit": "^0.4.1",
     "grunt-contrib-watch": "^0.6.1",
-    "patternlab-node": "git+https://github.com/pattern-lab/patternlab-node.git#dev"
+    "patternlab-node": "^1.1.0"
   }
 }
